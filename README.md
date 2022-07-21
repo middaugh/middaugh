@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Esmé</h1>
+<h1 align="center">Hi, I'm Esmé 👋</h1>
 <h3 align="center">I like data visualization.</h3>
 
-- 🔭 I’m currently working on **my master's thesis in Cartography at the TUM**
+- 🌏 I’m currently working on **my master's thesis in Cartography** at **TUM**
 
 - 👨‍💻 Some of my past projects are available on [my portfolio](https://middaugh.github.io/)
 
-- 💬 Ask me about **python**, **plotly**, **pandas**, and **typography.**
+- 💬 Ask me about **python**, **plotly**, **pandas**, and **typography**
 
 - 📄 Read my CV on [my website](https://middaugh.github.io/resume)
 

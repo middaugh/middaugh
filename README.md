@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my past projects are available on [my portfolio](https://middaugh.github.io/)
 
-- 💬 Ask me about **pandas, typography, and baking**
+- 💬 Ask me about **python**, **plotly**, **pandas**, and **typography.**
 
 - 📄 Read my CV on [my website](https://middaugh.github.io/resume)
 

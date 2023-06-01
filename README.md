@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Esmé 👋</h1>
 <h3 align="center">I like data visualization.</h3>
 
-- 🌏 I’m recently finished **my master's in Cartography** at **TUM**. You can read my master's thesis about art and distortion on [cartographymaser.eu](https://cartographymaster.eu/wp-content/theses/2022_Middaugh_Thesis.pdf).
+- 🌏 I recently finished **my master's in Cartography** at **TUM**. You can read my master's thesis about art and distortion on [cartographymaser.eu](https://cartographymaster.eu/wp-content/theses/2022_Middaugh_Thesis.pdf). I have a master's degree in Data Science from Indiana University and a bachelor's in Information Science from Arizona University.
 
 - 👨‍💻 Some of my past projects are available on [my portfolio](https://middaugh.github.io/)
 
